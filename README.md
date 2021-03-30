@@ -1,3 +1,16 @@
+## 本 Fork 修改内容
+1. 计划为 UIViewController+STPopup.h 增加一些自定义方便的方法，方法可能并不适用于所有人，所以不选择提交 Pull requests；
+2. 原项目有些 Pull requests 适用于自己的需求，原作者一直未合并，计划挑选一部分合并过来；
+
+
+
+
+
+
+
+
+
+
 # STPopup ![CI Status](https://img.shields.io/travis/kevin0571/STPopup.svg?style=flat) ![Version](http://img.shields.io/cocoapods/v/STPopup.svg?style=flag) ![License](https://img.shields.io/cocoapods/l/STPopup.svg?style=flag)
 `STPopup` provides `STPopupController`, which works just like `UINavigationController` in popup style, for both iPhone and iPad. It's written in Objective-C and compatible with Swift.
 
